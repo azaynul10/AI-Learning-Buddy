@@ -1,13 +1,13 @@
 import google.generativeai as genai
-import streamlit as 
+import streamlit as st
 from dotenv import load_dotenv
 import os
 
-load_dotenv()
-API_KEY = os.getenv("GEMINI_API_KEY")
+
 
 # Initialize Gemini API
-API_KEY = "GEMINI_API_KEY"
+
+API_KEY = os.getenv("GEMINI_API_KEY")  # Retrieve actual API key from .env
 genai.configure(api_key=API_KEY)
 model = genai.GenerativeModel('gemini-2.0-flash-exp')
 
@@ -20,8 +20,12 @@ def get_response(prompt, difficulty="intermediate"):
     }
     
     full_prompt = f"{difficulty_prompts[difficulty]}{prompt}"
-    response = model.generate_content(full_prompt)
-    return response.text
+    try:
+        response = model.generate_content(full_prompt)
+        return response.text
+    except Exception as e:
+        return f"Error: {str(e)}"
+    
 
 # Streamlit UI
 st.title("Interactive Learning Buddy")
