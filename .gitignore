@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+*.so
+.Python
+
+# Virtual Environment
+venv/
+stable_diffusion_env/
+.venv/
+stable-diffusion/
+.history/
+
+# IDE
+.vscode/
+.idea/
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Large files
+*.safetensors
+*.ckpt
+*.pth
+*.bin
+
+# Local development
+.env
+*.env
+api.json/
