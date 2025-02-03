@@ -7,6 +7,13 @@
 Your smart study partner powered by **Gemini 2.0 Flash** 💡
 
 <div align="center">
+  <a href="https://youtu.be/IXfyRL8AUB0?si=7jH4DXZ9MtO3BcVf" target="_blank">
+    <img src="https://img.youtube.com/vi/IXfyRL8AUB0/maxresdefault.jpg" width="800" alt="YouTube Demo">
+  </a>
+  <p>▶️ Click image for full video demo</p>
+</div>
+
+<div align="center">
   <img src="media/demo.gif" width="800" alt="AI Learning Buddy Demo">
 </div>
 
@@ -23,7 +30,6 @@ Your smart study partner powered by **Gemini 2.0 Flash** 💡
 
 1. **Get API Key** 🔑  
    [Create free Gemini API key](https://ai.google.dev)
-
 
 ## Features
 - Interactive learning with difficulty levels
@@ -55,6 +61,11 @@ Ask anything from "Explain quantum physics" to "Create Python quiz"
 |---------------|----------------|----------------|
 | <img src="media/learn-mode.gif" width="250"> | <img src="media/quiz-gen.gif" width="250"> | <img src="media/history.gif" width="250"> |
 
+**New Additions 🎉**
+| Adaptive Levels | Quick Setup | Dark Mode |
+|-----------------|-------------|-----------|
+| <img src="media/levels.gif" width="250"> | <img src="media/setup.gif" width="250"> | <img src="media/dark-mode.gif" width="250"> |
+
 ## 🌟 Why Use This?
 
 - **100% Free** - No hidden costs (Gemini free tier FTW! 🤑)
@@ -64,10 +75,9 @@ Ask anything from "Explain quantum physics" to "Create Python quiz"
 ## 🤝 Contribute
 
 Found a bug? Have feature ideas?  
-[Open an issue](https://github.com/yourusername/AI-Learning-Buddy/issues) or [Submit PR](https://github.com/yourusername/AI-Learning-Buddy/pulls)
+[Open an issue](https://github.com/azaynul10/AI-Learning-Buddy/issues) or [Submit PR](https://github.com/azaynul10/AI-Learning-Buddy/pulls)
 
 ---
 
 > Made with ❤️ using [Streamlit](https://streamlit.io) + [Gemini AI](https://ai.google.dev)  
-> ⭐ Star the repo if you find this useful!
-
+> 🎥 [Watch Full Demo](https://youtu.be/IXfyRL8AUB0?si=7jH4DXZ9MtO3BcVf) | ⭐ Star the repo if you find this useful!
