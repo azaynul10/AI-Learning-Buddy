@@ -1,9 +1,9 @@
-import streamlit as st  # Must be FIRST Streamlit import
+import streamlit as st  
 import google.generativeai as genai
 from dotenv import load_dotenv
 import os
 
-# Set page config FIRST
+
 st.set_page_config(
     page_title="AI Learning Buddy", 
     page_icon="🤖", 
@@ -16,7 +16,7 @@ genai.configure(api_key=API_KEY)
 model = genai.GenerativeModel('gemini-2.0-flash-exp')
 
 
-# Custom CSS for styling
+
 st.markdown("""
 <style>
     .gradient-header {
@@ -60,7 +60,7 @@ def save_to_history(question, answer):
         "answer": answer
     })
 
-# Main app layout
+
 with st.container():
     st.markdown('<div class="gradient-header"><h1>AI Learning Buddy</h1></div>', unsafe_allow_html=True)
     
@@ -74,7 +74,7 @@ with st.container():
             key="difficulty_slider"
         )
 
-    # Main content tabs
+    
     tab1, tab2, tab3 = st.tabs(["📚 Learn", "🧩 Quiz", "📈 Review"])
 
     with tab1:
