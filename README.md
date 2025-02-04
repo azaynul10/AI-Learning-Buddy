@@ -3,6 +3,23 @@
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app.streamlit.app)
 ![Python Version](https://img.shields.io/badge/python-3.9%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
+<div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzM1ZHdscG85MGVjdWY5dm0xZzY5bWIzdWY4cnFhODRlaWlwZjkxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cgso6IBnXBlqg4oNnn/giphy.gif" width="200" alt="Thank you GIF">
+  <h3>Supported By</h3>
+  <img src="media/google-cloud-logo.png" width="120" alt="Google Cloud">
+  <img src="media/colab-logo.png" width="120" alt="Google Colab">
+</div>
+
+## 🙌 Special Thanks
+This project was made possible with support from Google's developer programs:
+- **Google Cloud Credits** ☁️ provided by [AI/ML Developer Programs Team](https://developers.google.com/programs)
+- **100 Compute Units** 💻 granted by [Colab Team](https://colab.research.google.com/)
+- Technical guidance from **Vertex AI Sprint** mentors 🧠 [#VertexAISprint](https://twitter.com/hashtag/VertexAISprint)
+
+<div align="center">
+  <img src="media/vertex-ai-sprint-badge.gif" width="300" alt="Vertex AI Sprint">
+</div>
+
 
 Your smart study partner powered by **Gemini 2.0 Flash** 💡
 
@@ -80,4 +97,6 @@ Found a bug? Have feature ideas?
 ---
 
 > Made with ❤️ using [Streamlit](https://streamlit.io) + [Gemini AI](https://ai.google.dev)  
-> 🎥 [Watch Full Demo](https://youtu.be/IXfyRL8AUB0?si=7jH4DXZ9MtO3BcVf) | ⭐ Star the repo if you find this useful!
+> 🎥 [Watch Full Demo](https://youtu.be/IXfyRL8AUB0?si=7jH4DXZ9MtO3BcVf) | ⭐ Star the repo if you find this useful! > Made with ❤️ using Google Cloud #VertexAISprint resources  
+
+
