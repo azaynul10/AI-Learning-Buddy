@@ -16,6 +16,24 @@ This project was made possible with support from Google's developer programs:
 - **100 Compute Units** 💻 granted by [Colab Team](https://colab.research.google.com/)
 - Technical guidance from **Vertex AI Sprint** mentors 🧠 [#VertexAISprint](https://twitter.com/hashtag/VertexAISprint)
 
+- ## 🌍 Community Recognition
+
+<div align="center">
+  <a href="https://medium.com/google-developer-experts/jan-2025-ai-community-activity-highlights-and-achievements-64c233e7a194" target="_blank">
+    <img src="https://img.shields.io/badge/Featured%20on-Google%20AI%20Community%20Blog-%234285f4?style=for-the-badge&logo=google" alt="Google AI Community Feature">
+  </a>
+</div>
+
+**Featured in Google's Official AI Community Roundup**  
+_"Gemini 2.0 Flash in Action: AI Learning Buddy Demo by Zaynul Abedin Miah (Bangladesh) is an AI-powered learning tool creating stories and illustrations on the topic requested. It has adaptive difficulty levels, quiz generation, and learning progress tracking features."_  
+**- Nari Yoon**  
+*Google DevRel Community Manager | Google Developer Experts Program*
+
+📖 **Full Feature**: [January 2025 AI Community Highlights](https://medium.com/google-developer-experts/jan-2025-ai-community-activity-highlights-and-achievements-64c233e7a194)  
+🏆 **4-Time Google AI Network Featured** | 🇧🇩 
+## 🚀 Project Impact
+
+
 <div align="center">
   <img src="media/vertex-ai-sprint-badge.gif" width="300" alt="Vertex AI Sprint">
 </div>
@@ -63,6 +81,11 @@ Your smart study partner powered by **Gemini 2.0 Flash** 💡
    
 3. **Start Learning!** 🎓  
 Ask anything from "Explain quantum physics" to "Create Python quiz"
+
+<div align="center">
+  <img src="media/google-feature-screenshot.png" width="600" alt="Google Blog Feature">
+  <p>🔍 Screenshot from Google's official community blog</p>
+</div>
 
 ## 🛠️ Tech Stack
 
