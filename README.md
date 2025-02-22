@@ -31,8 +31,6 @@ _"Gemini 2.0 Flash in Action: AI Learning Buddy Demo by Zaynul Abedin Miah (Bang
 
 📖 **Full Feature**: [January 2025 AI Community Highlights](https://medium.com/google-developer-experts/jan-2025-ai-community-activity-highlights-and-achievements-64c233e7a194)  
 🏆 **4-Time Google AI Network Featured** | 🇧🇩 
-## 🚀 Project Impact
-
 
 <div align="center">
   <img src="media/vertex-ai-sprint-badge.gif" width="300" alt="Vertex AI Sprint">
