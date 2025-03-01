@@ -103,6 +103,8 @@ Ask anything from "Explain quantum physics" to "Create Python quiz"
 | Adaptive Levels | Quick Setup | Dark Mode |
 |-----------------|-------------|-----------|
 | <img src="media/levels.gif" width="250"> | <img src="media/setup.gif" width="250"> | <img src="media/dark-mode.gif" width="250"> |
+![image](https://github.com/user-attachments/assets/7e4f2f55-6934-44c2-b608-9586d1285fe8)
+
 
 ## 🌟 Why Use This?
 
