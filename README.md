@@ -15,6 +15,7 @@ This project was made possible with support from Google's developer programs:
 - **Google Cloud Credits** ☁️ provided by [AI/ML Developer Programs Team](https://developers.google.com/programs)
 - **100 Compute Units** 💻 granted by [Colab Team](https://colab.research.google.com/)
 - Technical guidance from **Vertex AI Sprint** mentors 🧠 [#VertexAISprint](https://twitter.com/hashtag/VertexAISprint)
+- Vertex AI Sprint Goodies ❤ ![IMG_1136](https://github.com/user-attachments/assets/04864f49-01ea-418f-b720-8d728b7976fe)
 
 - ## 🌍 Community Recognition
 
